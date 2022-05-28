@@ -1,3 +1,6 @@
+/*
+*   STATE AFFECTS BEHAVIOR
+* */
 package CH123;
 
 public class Dog {
